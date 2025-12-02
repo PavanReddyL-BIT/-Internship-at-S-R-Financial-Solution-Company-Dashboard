@@ -49,4 +49,4 @@ Here's a detailed, chronological breakdown of how the dashboard was built, lever
 - **Technical and Soft Skills**: Improved problem-solving, attention to detail, and communication through presenting the project to team members.  
 - **Internship Impact**: Gained practical experience in delivering value to an organization, bridging academic knowledge with professional application.
 
-- here is the overview of the dashboard -
+- here is the overview of the dashboard - S-R-Financial-Solution-Company-Dashboard/blob/main/snap%20shot%20of%20the%20%20S%20R%20Financial%20solution%20dashboard.png
